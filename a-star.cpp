@@ -10,7 +10,6 @@
 #include <vector>
 #include <stack>
 #include <set>
-#include "sort.cpp"
 
 using namespace std;
 
